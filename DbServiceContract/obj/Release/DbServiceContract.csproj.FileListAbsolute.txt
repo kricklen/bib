@@ -1,0 +1,6 @@
+Z:\Test\Bib\DbServiceContract\bin\Release\Bib.DbServiceContract.dll
+Z:\Test\Bib\DbServiceContract\bin\Release\Bib.DbServiceContract.pdb
+Z:\Test\Bib\DbServiceContract\obj\Release\DbServiceContract.csproj.AssemblyReference.cache
+Z:\Test\Bib\DbServiceContract\obj\Release\DbServiceContract.csproj.CoreCompileInputs.cache
+Z:\Test\Bib\DbServiceContract\obj\Release\Bib.DbServiceContract.dll
+Z:\Test\Bib\DbServiceContract\obj\Release\Bib.DbServiceContract.pdb

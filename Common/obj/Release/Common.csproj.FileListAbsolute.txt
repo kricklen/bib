@@ -1,0 +1,9 @@
+Z:\Test\Bib\Common\bin\Release\Bib.Common.dll
+Z:\Test\Bib\Common\bin\Release\Bib.Common.pdb
+Z:\Test\Bib\Common\bin\Release\log4net.dll
+Z:\Test\Bib\Common\bin\Release\log4net.xml
+Z:\Test\Bib\Common\obj\Release\Common.csproj.AssemblyReference.cache
+Z:\Test\Bib\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+Z:\Test\Bib\Common\obj\Release\Common.csproj.CopyComplete
+Z:\Test\Bib\Common\obj\Release\Bib.Common.dll
+Z:\Test\Bib\Common\obj\Release\Bib.Common.pdb
